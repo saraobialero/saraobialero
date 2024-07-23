@@ -12,11 +12,10 @@ Welcome to my code corner! I'm a junior Full Stack developer with a strong passi
 | SpringBoot | Vue - Tailwind   | H2       | Swagger      | Adobe  |
 
 #### 🌱 What I'm currently learning
-<small>
 * Backend development with Java and SpringBoot
 * RESTful architectures
 * **SOLID** principles and programming best practices
-</small>
+
 
 #### 🎨 Creative Background
 
