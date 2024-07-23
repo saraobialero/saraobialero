@@ -4,16 +4,16 @@ Welcome to my code corner! I'm a junior Full Stack developer with a strong passi
 
 ##### 🚀 My Skills
 
-| Backend    | Frontend    | Database | Tools | Design |
-|---------   |----------   |----------|-------|--------|
-| Java       | HTML CSS JS | MySQL    | Git   | Figma  |
-| SpringBoot | Vue.js      |          | GitHub|        |
-|            | Tailwind    |          |       |        |
+| Backend    | Frontend         | Database | Tools | Design |
+|---------   |----------        |----------|-------|--------|
+| Java       | HTML CSS JS      | MySQL    | Git   | Figma  |
+| SpringBoot | Vue - Tailwind   |          | GitHub|        |
+
 
 ##### 🌱 What I'm currently learning
 * Backend development with Java and SpringBoot
 * RESTful architectures
-* SOLID principles and programming best practices
+* **SOLID** principles and programming best practices
 
 ##### 🎨 Creative Background
 Before diving into the world of development, I worked as a Visual Designer and Social Content Creator. This experience has given me a keen eye for design and the ability to create user-friendly interfaces.
