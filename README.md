@@ -6,8 +6,8 @@ Welcome to my code corner! I'm a junior Full Stack developer with a strong passi
 
 | Backend    | Frontend         | Database | Tools  | Design |
 |------------|------------------|----------|--------|--------|
-| Java       | HTML CSS JS      | MySQL    | Git - GitHub    | Figma  |
-| SpringBoot | Vue - Tailwind   | H2       | Postamn - Swagger |  Adobe suite      |
+| Java       | HTML - CSS - JS  | MySQL    | Git - GitHub    | Figma  |
+| SpringBoot | Vue - Tailwind   | H2       | Swagger |  Adobe suite  |
 
 
 ##### 🌱 What I'm currently learning
