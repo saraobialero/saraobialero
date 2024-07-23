@@ -4,38 +4,38 @@
 
 Welcome to my code corner! I'm a junior Full Stack developer with a strong passion for Backend technologies, especially SpringBoot.
 
-##### 🚀 My Skills
+#### 🚀 My Skills
 
 | Backend    | Frontend         | Database | Tools        | Design |
 |------------|------------------|----------|--------------|--------|
 | Java       | HTML - CSS - JS  | MySQL    | Git - GitHub | Figma  |
 | SpringBoot | Vue - Tailwind   | H2       | Swagger      | Adobe  |
 
-##### 🌱 What I'm currently learning
-<sub>
+#### 🌱 What I'm currently learning
+<small>
 * Backend development with Java and SpringBoot
 * RESTful architectures
 * **SOLID** principles and programming best practices
-</sub>
+</small>
 
-##### 🎨 Creative Background
+#### 🎨 Creative Background
 
-<sub>Before diving into the world of development, I worked as a Visual Designer and Social Content Creator. This experience has given me a keen eye for design and the ability to create user-friendly interfaces.</sub>
+<small>Before diving into the world of development, I worked as a Visual Designer and Social Content Creator. This experience has given me a keen eye for design and the ability to create user-friendly interfaces.</small>
 
-##### 📚 Education
+#### 📚 Education
 
-<sub>
+<small>
 - Java Academy - Backend Developer
 - Frontend Developer Course (240 hours)
 - Master's Degree in New Art Technologies
-</sub>
+</small>
 
-##### 📫 How to reach me
+#### 📫 How to reach me
 
-<sub>**Email:** sara.obia99@gmail.com | **LinkedIn:** [@Sara Obialero](https://www.linkedin.com/in/sara-obialero)</sub>
+<small>**Email:** sara.obia99@gmail.com | **LinkedIn:** [@Sara Obialero](https://www.linkedin.com/in/sara-obialero)</small>
 
-##### 💡 Fun fact
+#### 💡 Fun fact
 
-<sub>My thesis ["Physics Of Languages"](https://youtu.be/RWGX1qwGPVM?si=cB-uuW6n4bSkYSwu) combines my passion for creative coding and design!</sub>
+<small>My thesis ["Physics Of Languages"](https://youtu.be/RWGX1qwGPVM?si=cB-uuW6n4bSkYSwu) combines my passion for creative coding and design!</small>
 
-<sub>I'm always looking for new challenges and learning opportunities. If you have an interesting project or want to collaborate, don't hesitate to contact me!</sub>
+<small>I'm always looking for new challenges and learning opportunities. If you have an interesting project or want to collaborate, don't hesitate to contact me!</small>
