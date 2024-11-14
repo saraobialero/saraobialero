@@ -29,7 +29,5 @@ Before diving into the world of development, I worked as a Visual Designer and S
 #### 📫 How to reach me
 **Email:** sara.obialero@proton.me | **LinkedIn:** [@Sara Obialero](https://www.linkedin.com/in/sara-obialero)
 
-#### 💡 Fun fact
-My thesis ["Physics Of Languages"](https://youtu.be/RWGX1qwGPVM?si=cB-uuW6n4bSkYSwu) combines my passion for creative coding and design!
 
 I'm always looking for new challenges and learning opportunities. If you have an interesting project or want to collaborate, don't hesitate to contact me!
